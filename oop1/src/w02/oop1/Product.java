@@ -1,4 +1,4 @@
-package w002.oop1;
+package w02.oop1;
 
 //PascalCase
 public class Product {
