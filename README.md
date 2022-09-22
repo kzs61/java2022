@@ -1,5 +1,8 @@
+<a href="https://aws.amazon.com/cloudformation/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="aws" width="120" height="120"/> </a> 
+
 # java2022 
 <br>
+
 
 ### [Java basics](https://github.com/kzs61/java2022/tree/master/intro/src/w01/demos)
 
