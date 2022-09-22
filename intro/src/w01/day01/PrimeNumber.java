@@ -1,4 +1,4 @@
-package w01.demos;
+package w01.day01;
 
 public class PrimeNumber {
 
