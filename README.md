@@ -13,4 +13,4 @@
 
 * Objects, Classes, Packages, Inheritances
 
-* [Introducing the OOP Reference](https://dev.java/oop/)
+* [Java OOP Reference](https://dev.java/oop/)
