@@ -19,7 +19,7 @@ public class Main {
 
 		Product product2 = new Product();
 
-		product2.setName("Rocket Kahve Makinasi");
+		product2.setName("Kahveci Kahve Makinasi");
 		product2.setUnitPrice(25000);
 		product2.setDiscount(10);
 		product2.setUnitInStock(2);
