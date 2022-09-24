@@ -1,4 +1,4 @@
-package w02.oop1;
+package oop1;
 
 public class Customer {
 
@@ -29,5 +29,4 @@ public class Customer {
 	public void setPhoneNumber(String phoneNumber) {
 		this.phoneNumber = phoneNumber;
 	}
-
 }

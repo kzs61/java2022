@@ -1,4 +1,4 @@
-package w02.oop1;
+package oop1;
 
 public class Main {
 
@@ -63,7 +63,5 @@ public class Main {
 		
 		Customer[] customers = {individualCustomer, corporateCustomer};
 		
-
 	}
-
 }

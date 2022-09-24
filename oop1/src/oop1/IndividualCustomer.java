@@ -1,4 +1,4 @@
-package w02.oop1;
+package oop1;
 
 public class IndividualCustomer extends Customer {
 
@@ -20,5 +20,4 @@ public class IndividualCustomer extends Customer {
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
-
 }

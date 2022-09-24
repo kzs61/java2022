@@ -1,4 +1,4 @@
-package w02.oop1;
+package oop1;
 
 //PascalCase
 public class Product {
@@ -48,5 +48,4 @@ public class Product {
 	public void setUnitInStock(int unitInStock) {
 		this.unitInStock = unitInStock;
 	}
-
 }
