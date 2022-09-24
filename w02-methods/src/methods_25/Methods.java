@@ -39,5 +39,6 @@ public class Methods {
 
 		System.out.println(message);
 	}
+	
 
 }
