@@ -13,7 +13,7 @@
 
 <br>
 
-### [OOP](https://github.com/kzs61/java2022/tree/master/oop1/src/oop1)
+### [W02 OOP1](https://github.com/kzs61/java2022/tree/master/w02-oop1)
 
 * Objects, Classes, Packages, Inheritances
 
@@ -22,7 +22,7 @@
 
 <br>
 
-### [Methods](https://github.com/kzs61/java2022/tree/master/w02-methods/src)
+### [W02 Methods](https://github.com/kzs61/java2022/tree/master/w02-methods)
 
 * Methods, Reusable methods
 
