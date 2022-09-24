@@ -13,7 +13,7 @@
 
 <br>
 
-### [OOP](https://github.com/kzs61/java2022/tree/master/oop1/src/w02/oop1)
+### [OOP](https://github.com/kzs61/java2022/tree/master/oop1/src/oop1)
 
 * Objects, Classes, Packages, Inheritances
 
