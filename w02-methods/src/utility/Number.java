@@ -1,9 +1,9 @@
 package utility;
 
 public class Number {
-	
+
 	PrintMessages printMessages = new PrintMessages();
-	
+
 	public void findNumber() {
 
 		int[] numbers = new int[] { 1, 2, 5, 7, 9, 0 };
@@ -26,11 +26,7 @@ public class Number {
 			printMessages.printMessage(searchNum + " is Not in numbers array");
 
 		}
-	}
 
-	
-	
-	
-	
+	}
 
 }
