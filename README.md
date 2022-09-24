@@ -25,6 +25,7 @@
 ### [Methods](https://github.com/kzs61/java2022/tree/master/w02-methods/src)
 
 * Methods, Reusable methods
+
 * Resources
   * [:link:](https://dev.java/learn/defining-methods/)
   * [:link:](https://www.baeldung.com/java-methods)
