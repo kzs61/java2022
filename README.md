@@ -4,7 +4,7 @@
 <br>
 
 
-### [Java basics](https://github.com/kzs61/java2022/tree/master/intro/src/w01/demos)
+### [Java basics](https://github.com/kzs61/java2022/tree/master/intro/src/w01/day01)
 
 * Variables, Data Types, String methods, Array, Control Flow Statements
 
