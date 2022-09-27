@@ -1,6 +1,6 @@
 package method_reusability;
 
-import utility.Number;
+import method_reusability_utility.Number;
 
 public class Main {
 
@@ -11,6 +11,5 @@ public class Main {
 		findingNumber.findNumber();
 
 	}
-
 	
 }

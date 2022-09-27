@@ -1,4 +1,4 @@
-package utility;
+package method_reusability_utility;
 
 public class Number {
 
@@ -29,5 +29,4 @@ public class Number {
 
 	}
 
-	
 }

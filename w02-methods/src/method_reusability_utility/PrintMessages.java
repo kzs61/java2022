@@ -1,4 +1,4 @@
-package utility;
+package method_reusability_utility;
 
 public class PrintMessages {
 

@@ -1,6 +1,6 @@
-package methods_25;
+package w02_25_34;
 
-public class Methods {
+public class MethodsStandAlone {
 
 //	stand alone
 
@@ -39,6 +39,5 @@ public class Methods {
 
 		System.out.println(message);
 	}
-	
 
 }
