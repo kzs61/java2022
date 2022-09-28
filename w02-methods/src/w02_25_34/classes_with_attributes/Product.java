@@ -2,30 +2,30 @@ package w02_25_34.classes_with_attributes;
 
 public class Product {
 
-//	fields
 
-//	public class fields are public by default.
-//	int id;
-//	String name;
-//	String description;
-//	double price;
-//	int inventory;
-//	String colorString;
-
-//	encapsulation:
-//	Declare the fields as private.
-//	generate getters for read
-//	generate setters for write
-//	for read only keep only getters and remove setters
-
+//	default constructor
+	public Product() {
+		System.out.println("Constructor clled");
+	}
 	
-
+	public Product(int id, String name, String description, double price, int inventory, String color) {
+		System.out.println("Constructor called");
+		this.id = id;
+		this.name = name;
+		this.description = description;
+		this.price = price;
+		this.inventory = inventory;
+		this.color = color;
+	}
+	
+	
+// fields/attributes
 	private int id;
 	private String name;
 	private String description;
 	private double price;
 	private int inventory;
-	private String colorString;
+	private String color;
 	private String code;
 	
 	
@@ -59,11 +59,11 @@ public class Product {
 	public void setInventory(int inventory) {
 		this.inventory = inventory;
 	}
-	public String getColorString() {
-		return colorString;
+	public String getColor() {
+		return color;
 	}
-	public void setColorString(String colorString) {
-		this.colorString = colorString;
+	public void setColor(String color) {
+		this.color = color;
 	}
 	public String getCode() {
 //		as product code get the first letter of the product name and product id.
