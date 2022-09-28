@@ -9,7 +9,7 @@
 * Variables, Data Types, String methods, Array, Control Flow Statements
 
 * Resources
-  * [:link:](https://dev.java/learn/java-language-basics)
+  * [Java Basics](https://dev.java/learn/java-language-basics)
 
 <br>
 
@@ -18,7 +18,7 @@
 * Objects, Classes, Packages, Inheritances
 
 * Resources
-  * [:link:](https://dev.java/oop/)
+  * [OOP](https://dev.java/oop/)
 
 <br>
 
