@@ -1,4 +1,4 @@
-package w02_25_34.inheritance_demo;
+package w02_25_37.inheritance_demo;
 
 public class Main {
 	

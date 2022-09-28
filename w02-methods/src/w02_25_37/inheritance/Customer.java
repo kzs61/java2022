@@ -1,4 +1,4 @@
-package w02_25_34.inheritance;
+package w02_25_37.inheritance;
 
 public class Customer extends Person{
 	

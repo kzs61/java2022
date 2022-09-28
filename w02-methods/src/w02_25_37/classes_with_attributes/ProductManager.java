@@ -1,4 +1,4 @@
-package w02_25_34.classes_with_attributes;
+package w02_25_37.classes_with_attributes;
 
 public class ProductManager {
 
