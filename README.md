@@ -22,13 +22,16 @@
 
 <br>
 
-### [W02 Methods](https://github.com/kzs61/java2022/tree/master/w02-methods/src)
+### [W02 Methods, Class, Constructor, Method Overloading, Inheritance](https://github.com/kzs61/java2022/tree/master/w02-methods/src)
 
 * [Method reusability](https://github.com/kzs61/java2022/tree/master/w02-methods/src)
-* [Classes with attributes, Encapsulation and Constructor](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_34/classes_with_attributes)
+* [Classes with attributes, Encapsulation and Constructor](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37/classes_with_attributes)
 * [Constructor examples](https://github.com/kzs61/java2022/tree/master/w02-methods/src/constructors)
-* [Classes recap](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_34/recap_classes)
-* [w02-25-34](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_34)
+* [Method Overloading](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37/method_overloading)
+* [Classes recap](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37/recap_classes)
+* [Inheritance](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37/inheritance)
+* [Inheritance demo](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37/inheritance_demo)
+* [w02-25-34](https://github.com/kzs61/java2022/tree/master/w02-methods/src/w02_25_37)
 
 
 #### w2 Notes:
