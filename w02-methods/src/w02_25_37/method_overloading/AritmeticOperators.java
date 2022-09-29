@@ -1,4 +1,4 @@
-package w02_25_37.nethod_overloading;
+package w02_25_37.method_overloading;
 
 public class AritmeticOperators {
 	
