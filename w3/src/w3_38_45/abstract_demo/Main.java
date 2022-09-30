@@ -14,7 +14,7 @@ public class Main {
 		customerManager.getCustomers(); // returns us the customer data from the database we define above
 		
 												// Data pulled : Oracle  or  Data pulled : SqlServer or Data pulled : MySqlServer
-
+	
 	}
 
 }

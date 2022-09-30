@@ -7,7 +7,5 @@ public class SqlServerDatabaseManager extends BaseDatabaseManager{
 		System.out.println("Data pulled : SqlServer");
 		
 	}
-	
-	
 
 }

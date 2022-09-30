@@ -13,9 +13,6 @@ public class CustomerManager {
 	
 		databaseManager.getData();
 	
-		
-
-		
 	}
 
 }
