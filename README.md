@@ -65,6 +65,16 @@ _Encapsulated code can be reused throughout the application or across multiple a
 _Application ode is encapsulated in separate units (classes, interfaces, methods, setters, getters, etc) so it’s easy to change or update a part of the application without affecting other parts, which reduces the time of maintenance_
 
 
+<br>
+
+### [W03 OOP2, oopWithNLayeredApp](https://github.com/kzs61/java2022/tree/master/oopWithNLayeredApp/src/oopWithNLayeredApp)
+
+<br>
+#### [W03 38-45](https://github.com/kzs61/java2022/tree/master/w3/src/w3_38_45)
+
+
+
+
 #### Resources
   * [defining-methods](https://dev.java/learn/defining-methods/)
   * [java-methods](https://www.baeldung.com/java-methods)
