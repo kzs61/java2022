@@ -69,11 +69,9 @@ _Application ode is encapsulated in separate units (classes, interfaces, methods
 
 ### [W03 OOP2, oopWithNLayeredApp](https://github.com/kzs61/java2022/tree/master/oopWithNLayeredApp/src/oopWithNLayeredApp)
 
+### [W03 38-45](https://github.com/kzs61/java2022/tree/master/w3/src/w3_38_45)
+
 <br>
-#### [W03 38-45](https://github.com/kzs61/java2022/tree/master/w3/src/w3_38_45)
-
-
-
 
 #### Resources
   * [defining-methods](https://dev.java/learn/defining-methods/)
