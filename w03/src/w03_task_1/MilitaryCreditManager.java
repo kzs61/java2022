@@ -1,4 +1,4 @@
-package w3_task_1;
+package w03_task_1;
 
 public class MilitaryCreditManager extends BaseCreditManager implements ICreditManager {
     
